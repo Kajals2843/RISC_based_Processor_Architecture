@@ -94,8 +94,6 @@ FPGA-Based-RISC-Architecture-Fabric/
 │
 ├── Simulation/
 │
-├── Constraints/
-│
 ├── Documentation/
 │
 └── README.md
